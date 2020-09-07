@@ -1,0 +1,5 @@
+Com\Capge\Hos\Base\Testbase.class
+Com\Capge\Hos\Pages\SignupPage.class
+Com\Capge\Hos\Pages\InboxPage.class
+Com\Capge\Hos\Pages\LoginPage.class
+Com\Capge\Hos\Utility\Testutil.class

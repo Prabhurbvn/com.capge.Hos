@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73577" started-at="2020-09-04T15:16:19 IST" finished-at="2020-09-04T15:17:32 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73577" started-at="2020-09-04T15:16:19 IST" finished-at="2020-09-04T15:17:32 IST">
+      <class name="Com.Capge.Hos.Script.TestScript">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="Setup" is-config="true" duration-ms="57814" started-at="2020-09-04T15:16:19 IST" finished-at="2020-09-04T15:17:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="ValidateClick()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="ValidateClick" duration-ms="832" started-at="2020-09-04T15:17:17 IST" finished-at="2020-09-04T15:17:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateClick -->
+        <test-method status="PASS" signature="ValidateCreateNewAccount()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="ValidateCreateNewAccount" duration-ms="169" started-at="2020-09-04T15:17:17 IST" finished-at="2020-09-04T15:17:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreateNewAccount -->
+        <test-method status="PASS" signature="ValidateDrop_Day()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="ValidateDrop_Day" duration-ms="4885" started-at="2020-09-04T15:17:18 IST" finished-at="2020-09-04T15:17:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDrop_Day -->
+        <test-method status="PASS" signature="ValidateDrop_Month()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="ValidateDrop_Month" duration-ms="298" started-at="2020-09-04T15:17:23 IST" finished-at="2020-09-04T15:17:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDrop_Month -->
+        <test-method status="PASS" signature="ValidateDrop_Year()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="ValidateDrop_Year" duration-ms="240" started-at="2020-09-04T15:17:23 IST" finished-at="2020-09-04T15:17:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDrop_Year -->
+        <test-method status="PASS" signature="ValidateFemale()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="ValidateFemale" duration-ms="210" started-at="2020-09-04T15:17:23 IST" finished-at="2020-09-04T15:17:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateFemale -->
+        <test-method status="PASS" signature="ValidateFirstname()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="ValidateFirstname" duration-ms="6274" started-at="2020-09-04T15:17:23 IST" finished-at="2020-09-04T15:17:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateFirstname -->
+        <test-method status="PASS" signature="ValidateTitle()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="ValidateTitle" duration-ms="10" started-at="2020-09-04T15:17:30 IST" finished-at="2020-09-04T15:17:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method status="PASS" signature="ValidateUrl()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="ValidateUrl" duration-ms="16" started-at="2020-09-04T15:17:30 IST" finished-at="2020-09-04T15:17:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateUrl -->
+        <test-method status="PASS" signature="validateEmail()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="validateEmail" duration-ms="214" started-at="2020-09-04T15:17:30 IST" finished-at="2020-09-04T15:17:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEmail -->
+        <test-method status="PASS" signature="validatePass()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="validatePass" duration-ms="174" started-at="2020-09-04T15:17:30 IST" finished-at="2020-09-04T15:17:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePass -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Com.Capge.Hos.Script.TestScript@d2dae5]" name="Teardown" is-config="true" duration-ms="2127" started-at="2020-09-04T15:17:30 IST" finished-at="2020-09-04T15:17:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Capge.Hos.Script.TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

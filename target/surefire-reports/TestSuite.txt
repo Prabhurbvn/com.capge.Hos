@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 1, Errors: 0, Skipped: 12, Time elapsed: 0.854 s <<< FAILURE! - in TestSuite
+Com.Capge.Hos.Script.TestScript.Setup  Time elapsed: 0.569 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\sksDownloads\chromedriver_win32 (2)\chromedriver.exe
+	at Com.Capge.Hos.Script.TestScript.Setup(TestScript.java:19)
+

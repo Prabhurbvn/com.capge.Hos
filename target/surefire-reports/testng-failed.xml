@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="Com.Capge.Hos.Script.TestScript">
+        <methods>
+          <include name="ValidateTitle"/>
+          <include name="Teardown"/>
+          <include name="ValidateClick"/>
+          <include name="ValidateDrop_Day"/>
+          <include name="Setup"/>
+          <include name="ValidateUrl"/>
+          <include name="ValidateFemale"/>
+          <include name="validatePass"/>
+          <include name="ValidateDrop_Year"/>
+          <include name="ValidateDrop_Month"/>
+          <include name="validateEmail"/>
+          <include name="ValidateCreateNewAccount"/>
+          <include name="ValidateFirstname"/>
+        </methods>
+      </class> <!-- Com.Capge.Hos.Script.TestScript -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
